@@ -1,0 +1,20 @@
+type = user_variables
+
+variable {
+  name = music
+  value = 1
+  reset_on_launch = false
+}
+
+variable {
+  name = background
+  value = 0
+  reset_on_launch = false
+}
+
+variable {
+  name = menutype
+  value = 0
+  reset_on_launch = false
+}
+
