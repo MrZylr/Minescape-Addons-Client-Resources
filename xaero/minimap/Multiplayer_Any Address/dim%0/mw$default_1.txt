@@ -1,7 +1,8 @@
-sets:gui.xaero_default:Underground:Easy Clues
+sets:Underground:gui.xaero_default:Easy Clues:underground
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Farming Patch:╚:115:67:72:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Food Shop:╗:59:69:-1279:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Seers' Rooftop Course - LVL 60:⌡:-874:67:-616:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Food Shop:╗:-1369:67:564:8:false:0:gui.xaero_default:false:0:0:false
@@ -162,9 +163,9 @@ waypoint:Paterdomus:▐:1217:63:-607:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ectofuntus:▐:1917:70:-711:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Farming Shop:㊊:1839:68:-729:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Agility Shortcut - Level 71:╨:1293:89:-881:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Agility Shortcut - Level 71:╨:1294:83:-882:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Agility Shortcut - Level 61:╨:1218:83:-806:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Agility Shortcut - Level 61:╨:1219:77:-806:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Agility Shortcut - Level 71:╨:1293:89:-881:8:false:0:Underground:false:0:0:false
+waypoint:Agility Shortcut - Level 61:╨:1219:77:-806:8:false:0:Underground:false:0:0:false
 waypoint:Farming Patch:╚:1308:68:-570:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fairy Ring - CKS:√:1297:67:-561:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fairy Ring - BIP:√:1171:67:-128:8:false:0:gui.xaero_default:false:0:0:false
@@ -695,6 +696,9 @@ waypoint:Fishing Spot:▀:261:62:-439:8:false:0:gui.xaero_default:false:0:0:fals
 waypoint:Fishing Spot:▀:267:62:-459:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Edgeville Dungeon ½传:▐:232:63:-561:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Bank:磨:220:63:-653:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mining Site:═:-1560:28:-550:8:false:0:Underground:false:0:0:false
+waypoint:Mining Site:═:-1494:28:-567:8:false:0:Underground:false:0:0:false
+waypoint:Mining Site:═:-1469:28:-603:8:false:0:Underground:false:0:0:false
 waypoint:Mining Shop:伥:-54:43:-472:8:false:0:Underground:false:0:0:false
 waypoint:Mining Shop:伥:45:43:-479:8:false:0:Underground:false:0:0:false
 waypoint:Bank:磨:-394:48:-723:8:false:0:Underground:false:0:0:false
