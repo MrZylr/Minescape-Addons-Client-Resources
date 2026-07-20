@@ -2,6 +2,35 @@ sets:gui.xaero_default:Underground:Easy Clues
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Farming Patch:╚:115:67:72:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Food Shop:╗:59:69:-1279:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Seers' Rooftop Course - LVL 60:⌡:-874:67:-616:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Food Shop:╗:-1369:67:564:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hunter Shop:亦:-1364:67:610:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Agility Short-Cut Lvl 33:╨:-1252:66:-157:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Agility Short-Cut Lvl 20:╨:-1267:65:-583:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Armoury:╟:-1527:70:-302:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Combat Training:⌠:-1540:70:-257:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1257:64:-416:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1246:64:-392:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1484:64:-383:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1450:64:-362:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1540:64:-408:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Quest Start - Dwarf Cannon:╒:-1361:69:-529:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mining Site:═:-1319:63:-590:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Quest Start - Waterfall Quest:╒:-1499:91:-645:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Yew Tree:▄:-1572:90:-622:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Dungeon:▐:-1528:89:-685:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1551:88:-640:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1565:88:-676:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1551:88:-704:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1508:88:-710:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1570:63:-793:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1533:63:-833:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1512:64:-875:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Barbarian Outpost - LVL 35:⌡:-1429:67:-864:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Barbarian Assault:Ω:-1473:67:-864:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bank:磨:-1452:67:-872:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:General Store:╤:-1669:67:-11:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Anvil:╓:-1565:68:-140:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Altar:╙:-1474:69:-8:8:false:0:gui.xaero_default:false:0:0:false
@@ -10,7 +39,6 @@ waypoint:Quest Start - Plague City:╒:-1363:67:-155:8:false:0:gui.xaero_default
 waypoint:Cooking Range:╬:-1421:68:-118:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Water Source:╥:-1417:68:-113:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Altar:╙:1200:74:-618:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Bank:磨:-403:48:-710:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Quest Start - Romeo & Juliet:╒:565:63:-436:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Quest Start - Demon Slayer:╒:544:63:-430:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Dungeon:▐:-1119:67:214:8:false:0:gui.xaero_default:false:0:0:false
@@ -134,10 +162,6 @@ waypoint:Agility Shortcut - Level 65:╨:1223:74:-581:8:false:0:gui.xaero_defaul
 waypoint:Paterdomus:▐:1217:63:-607:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ectofuntus:▐:1917:70:-711:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Farming Shop:㊊:1839:68:-729:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Agility Shortcut - Level 71:╨:1293:89:-881:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Agility Shortcut - Level 71:╨:1294:83:-882:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Agility Shortcut - Level 61:╨:1218:83:-806:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Agility Shortcut - Level 61:╨:1219:77:-806:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Farming Patch:╚:1308:68:-570:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fairy Ring - CKS:√:1297:67:-561:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fairy Ring - BIP:√:1171:67:-128:8:false:0:gui.xaero_default:false:0:0:false
@@ -189,7 +213,6 @@ waypoint:Food Shop:╗:-681:70:289:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Water Source:╥:-660:70:262:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fruit tree Patch:╚:-765:66:214:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Ardougne Rooftop Course - lvl 90:⌡:-1040:68:-41:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Seers' Rooftop Course - lvl 60:⌡:-874:67:-616:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Canifis Rooftop Course - lvl 40:⌡:1477:66:-614:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Draynor Rooftop Course - lvl 1:⌡:260:63:13:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Falador Rooftop Course -level 50:⌡:50:63:-160:8:false:0:gui.xaero_default:false:0:0:false
@@ -197,14 +220,14 @@ waypoint:Water Source:╥:-1027:71:-341:8:false:0:gui.xaero_default:false:0:0:fa
 waypoint:Cooking Range:╬:-943:69:-366:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Furnace:┌:-1255:68:-82:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Pottery Wheel:╢:-1299:69:-128:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Waypoint:▐:-1375:71:-217:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Dungeon:▐:-1375:71:-217:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fishing Spot:▀:-1365:63:-254:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fishing Spot:▀:-1378:63:-271:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fishing Shop:㊎:-1271:66:-352:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Bank:磨:-1303:66:-411:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Fishing Spot:▀:-1250:63:-419:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1248:64:-421:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fishing Spot:▀:-1227:64:-393:8:false:0:gui.xaero_default:false:0:0:false
-waypoint:Fishing Spot:▀:-1251:64:-401:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:-1249:63:-402:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Cooking Range:╬:-1214:66:-339:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Cooking Range:╬:-1117:66:-222:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Dairy Cow:┴:-1037:67:-209:8:false:0:gui.xaero_default:false:0:0:false
@@ -669,6 +692,16 @@ waypoint:Fishing Spot:▀:261:62:-439:8:false:0:gui.xaero_default:false:0:0:fals
 waypoint:Fishing Spot:▀:267:62:-459:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Edgeville Dungeon ½传:▐:232:63:-561:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Bank:磨:220:63:-653:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Agility Shortcut - Level 71:╨:1293:89:-881:8:false:0:Underground:false:0:0:false
+waypoint:Agility Shortcut - Level 61:╨:1219:77:-806:8:false:0:Underground:false:0:0:false
+waypoint:Mining Site:═:-1560:28:-550:8:false:0:Underground:false:0:0:false
+waypoint:Mining Site:═:-1494:28:-567:8:false:0:Underground:false:0:0:false
+waypoint:Mining Site:═:-1469:28:-603:8:false:0:Underground:false:0:0:false
+waypoint:Mining Shop:伥:-54:43:-472:8:false:0:Underground:false:0:0:false
+waypoint:Mining Shop:伥:45:43:-479:8:false:0:Underground:false:0:0:false
+waypoint:Bank:磨:-394:48:-723:8:false:0:Underground:false:0:0:false
+waypoint:Martin Thwait's Lost and Found:╞:-373:48:-691:8:false:0:Underground:false:0:0:false
+waypoint:Exit:⁵:-1531:18:-657:8:false:0:Underground:false:0:0:false
 waypoint:Tele to Al kharid bank:╔:-2649:12:1040:8:false:0:Underground:false:0:0:false
 waypoint:Ring seller:░:-2666:13:1051:8:false:0:Underground:false:0:0:false
 waypoint:Sword Shop:╟:-2651:11:1107:8:false:0:Underground:false:0:0:false
