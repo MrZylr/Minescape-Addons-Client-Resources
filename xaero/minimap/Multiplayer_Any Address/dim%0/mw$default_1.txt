@@ -1,7 +1,9 @@
-sets:gui.xaero_default:Underground:Easy Clues
+sets:gui.xaero_default:Easy Clues:Underground
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Fishing Spot:▀:991:63:-1601:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fishing Spot:▀:1044:63:-1562:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Farming Patch:╚:115:67:72:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Food Shop:╗:59:69:-1279:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Seers' Rooftop Course - LVL 60:⌡:-874:67:-616:8:false:0:gui.xaero_default:false:0:0:false
@@ -692,6 +694,43 @@ waypoint:Fishing Spot:▀:261:62:-439:8:false:0:gui.xaero_default:false:0:0:fals
 waypoint:Fishing Spot:▀:267:62:-459:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Edgeville Dungeon ½传:▐:232:63:-561:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Bank:磨:220:63:-653:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:#37 Karim Al Kharid Kabab Shop:ぅ:751:66:292:8:false:0:Easy Clues:false:0:0:false
+waypoint:#36 Father Aereck Lumbridge:と:687:64:228:8:false:0:Easy Clues:false:0:0:false
+waypoint:#35 Wizard Sedridor Wizard tower:で:284:49:376:8:false:0:Easy Clues:false:0:0:false
+waypoint:#34 Duke Horacio Lumbridge:て:576:71:185:8:false:0:Easy Clues:false:0:0:false
+waypoint:#33 Reldo Varrock Castle:づ:569:62:-639:8:false:0:Easy Clues:false:0:0:false
+waypoint:#32 Doric Taverly Gate:つ:-207:61:-508:8:false:0:Easy Clues:false:0:0:false
+waypoint:#31 Thurgo Mudskipper Point:っ:-87:65:408:8:false:0:Easy Clues:false:0:0:false
+waypoint:#30 Sir Vyvin Falador Castle:ぢ:-112:79:-174:8:false:0:Easy Clues:false:0:0:false
+waypoint:#29 Hetty Rimmington:ち:-162:63:239:8:false:0:Easy Clues:false:0:0:false
+waypoint:#28 Customs Officer Karamja :だ:-204:65:415:8:false:0:Easy Clues:false:0:0:false
+waypoint:#27 Aubury Varrock Magic Shop:た:708:63:-358:8:false:0:Easy Clues:false:0:0:false
+waypoint:#26 Seaman Lorris Port Sarim:ぞ:48:66:247:8:false:0:Easy Clues:false:0:0:false
+waypoint:#25 Joe Draynor Jail:そ:309:63:133:8:false:0:Easy Clues:false:0:0:false
+waypoint:#24 Lady Keli Draynor Jail:ぜ:321:63:133:8:false:0:Easy Clues:false:0:0:false
+waypoint:#23 Leela East Of Draynor:せ:296:65:65:8:false:0:Easy Clues:false:0:0:false
+waypoint:#22 Ned Draynor:ず:237:63:78:8:false:0:Easy Clues:false:0:0:false
+waypoint:#21 Aggie Draynor:す:202:62:70:8:false:0:Easy Clues:false:0:0:false
+waypoint:#20 Falador Castle:じ:-132:68:-174:8:false:0:Easy Clues:false:0:0:false
+waypoint:#19 Krystilia Edgeville:し:264:63:-695:8:false:0:Easy Clues:false:0:0:false
+waypoint:#18 Barbarian Village N/W Corner:ご:134:68:-477:8:false:0:Easy Clues:false:0:0:false
+waypoint:#17 East Lumbridge Cow Pen:こ:687:63:-35:8:false:0:Easy Clues:false:0:0:false
+waypoint:#16 East Of Draynor:げ:357:65:64:8:false:0:Easy Clues:false:0:0:false
+waypoint:#15 North East Of GE:け:338:65:-648:8:false:0:Easy Clues:false:0:0:false
+waypoint:#14 South Varrock:ぐ:676:65:-192:8:false:0:Easy Clues:false:0:0:false
+waypoint:#13 West of East Lumby Cow Pen:く:660:65:18:8:false:0:Easy Clues:false:0:0:false
+waypoint:#12 West of Al Kharid Mine:き:809:65:-46:8:false:0:Easy Clues:false:0:0:false
+waypoint:#11 South East of Al Kharid:ぁ:930:67:390:8:false:0:Easy Clues:false:0:0:false
+waypoint:#10 South Falador:が:4:65:-18:8:false:0:Easy Clues:false:0:0:false
+waypoint:#9 Rimmington Mine:か:-131:65:179:8:false:0:Easy Clues:false:0:0:false
+waypoint:#8 Karamja:お:-258:65:395:8:false:0:Easy Clues:false:0:0:false
+waypoint:#7 South Port Sarim:ぉ:4:72:355:8:false:0:Easy Clues:false:0:0:false
+waypoint:#6 West of Champions Guild:え:430:65:-243:8:false:0:Easy Clues:false:0:0:false
+waypoint:#5 West Of Lumbridge Castle:ぇ:459:63:217:8:false:0:Easy Clues:false:0:0:false
+waypoint:#4 South East Lumbridge Mine:う:623:65:399:8:false:0:Easy Clues:false:0:0:false
+waypoint:#3 North East of Lumby Castle:ぃ:548:65:84:8:false:0:Easy Clues:false:0:0:false
+waypoint:#2 Varrock Teleport:あ:612:65:-410:8:false:0:Easy Clues:false:0:0:false
+waypoint:#1 South Of GE:Ö:455:63:-541:8:false:0:Easy Clues:false:0:0:false
 waypoint:Agility Shortcut - Level 71:╨:1293:89:-881:8:false:0:Underground:false:0:0:false
 waypoint:Agility Shortcut - Level 61:╨:1219:77:-806:8:false:0:Underground:false:0:0:false
 waypoint:Mining Site:═:-1560:28:-550:8:false:0:Underground:false:0:0:false
@@ -785,40 +824,3 @@ waypoint:Anvil:╓:243:47:660:8:false:0:Underground:false:0:0:false
 waypoint:Furnace:┌:256:47:671:8:false:0:Underground:false:0:0:false
 waypoint:Furnace:┌:256:47:665:8:false:0:Underground:false:0:0:false
 waypoint:Tutorial Island Cave Exit:⁵:201:47:659:8:false:0:Underground:false:0:0:false
-waypoint:#37 Karim Al Kharid Kabab Shop:ぅ:751:66:292:8:false:0:Easy Clues:false:0:0:false
-waypoint:#36 Father Aereck Lumbridge:と:687:64:228:8:false:0:Easy Clues:false:0:0:false
-waypoint:#35 Wizard Sedridor Wizard tower:で:284:49:376:8:false:0:Easy Clues:false:0:0:false
-waypoint:#34 Duke Horacio Lumbridge:て:576:71:185:8:false:0:Easy Clues:false:0:0:false
-waypoint:#33 Reldo Varrock Castle:づ:569:62:-639:8:false:0:Easy Clues:false:0:0:false
-waypoint:#32 Doric Taverly Gate:つ:-207:61:-508:8:false:0:Easy Clues:false:0:0:false
-waypoint:#31 Thurgo Mudskipper Point:っ:-87:65:408:8:false:0:Easy Clues:false:0:0:false
-waypoint:#30 Sir Vyvin Falador Castle:ぢ:-112:79:-174:8:false:0:Easy Clues:false:0:0:false
-waypoint:#29 Hetty Rimmington:ち:-162:63:239:8:false:0:Easy Clues:false:0:0:false
-waypoint:#28 Customs Officer Karamja :だ:-204:65:415:8:false:0:Easy Clues:false:0:0:false
-waypoint:#27 Aubury Varrock Magic Shop:た:708:63:-358:8:false:0:Easy Clues:false:0:0:false
-waypoint:#26 Seaman Lorris Port Sarim:ぞ:48:66:247:8:false:0:Easy Clues:false:0:0:false
-waypoint:#25 Joe Draynor Jail:そ:309:63:133:8:false:0:Easy Clues:false:0:0:false
-waypoint:#24 Lady Keli Draynor Jail:ぜ:321:63:133:8:false:0:Easy Clues:false:0:0:false
-waypoint:#23 Leela East Of Draynor:せ:296:65:65:8:false:0:Easy Clues:false:0:0:false
-waypoint:#22 Ned Draynor:ず:237:63:78:8:false:0:Easy Clues:false:0:0:false
-waypoint:#21 Aggie Draynor:す:202:62:70:8:false:0:Easy Clues:false:0:0:false
-waypoint:#20 Falador Castle:じ:-132:68:-174:8:false:0:Easy Clues:false:0:0:false
-waypoint:#19 Krystilia Edgeville:し:264:63:-695:8:false:0:Easy Clues:false:0:0:false
-waypoint:#18 Barbarian Village N/W Corner:ご:134:68:-477:8:false:0:Easy Clues:false:0:0:false
-waypoint:#17 East Lumbridge Cow Pen:こ:687:63:-35:8:false:0:Easy Clues:false:0:0:false
-waypoint:#16 East Of Draynor:げ:357:65:64:8:false:0:Easy Clues:false:0:0:false
-waypoint:#15 North East Of GE:け:338:65:-648:8:false:0:Easy Clues:false:0:0:false
-waypoint:#14 South Varrock:ぐ:676:65:-192:8:false:0:Easy Clues:false:0:0:false
-waypoint:#13 West of East Lumby Cow Pen:く:660:65:18:8:false:0:Easy Clues:false:0:0:false
-waypoint:#12 West of Al Kharid Mine:き:809:65:-46:8:false:0:Easy Clues:false:0:0:false
-waypoint:#11 South East of Al Kharid:ぁ:930:67:390:8:false:0:Easy Clues:false:0:0:false
-waypoint:#10 South Falador:が:4:65:-18:8:false:0:Easy Clues:false:0:0:false
-waypoint:#9 Rimmington Mine:か:-131:65:179:8:false:0:Easy Clues:false:0:0:false
-waypoint:#8 Karamja:お:-258:65:395:8:false:0:Easy Clues:false:0:0:false
-waypoint:#7 South Port Sarim:ぉ:4:72:355:8:false:0:Easy Clues:false:0:0:false
-waypoint:#6 West of Champions Guild:え:430:65:-243:8:false:0:Easy Clues:false:0:0:false
-waypoint:#5 West Of Lumbridge Castle:ぇ:459:63:217:8:false:0:Easy Clues:false:0:0:false
-waypoint:#4 South East Lumbridge Mine:う:623:65:399:8:false:0:Easy Clues:false:0:0:false
-waypoint:#3 North East of Lumby Castle:ぃ:548:65:84:8:false:0:Easy Clues:false:0:0:false
-waypoint:#2 Varrock Teleport:あ:612:65:-410:8:false:0:Easy Clues:false:0:0:false
-waypoint:#1 South Of GE:Ö:455:63:-541:8:false:0:Easy Clues:false:0:0:false
