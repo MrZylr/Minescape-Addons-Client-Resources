@@ -1,0 +1,10 @@
+chicken:chicken
+cow:cow
+dairy_cow:dairy_cow
+giant_rat:giant_rat
+goblin:goblin
+imp:imp
+ram:ram
+rat:rat
+sheep:sheep
+spider:spider
