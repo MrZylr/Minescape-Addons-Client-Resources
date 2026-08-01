@@ -8,3 +8,4 @@ ram:ram
 rat:rat
 sheep:sheep
 spider:spider
+crimson_swift:crimson_swift
