@@ -145,6 +145,7 @@ hill_giant_pet:stone_axe:damage=102:hill_giant:true
 hobgoblin:stone_axe:damage=88:hobgoblin
 hobgoblin_pet:stone_axe:damage=103:hobgoblin:true
 homunculus:apple:cmd=71:homunculus
+hudon:apple:cmd=20:hudon
 ice_giant:stone_axe:damage=128:ice_giant
 ice_giant_pet:stone_axe:damage=104:ice_giant:true
 ice_warrior:stone_axe:damage=127:ice_warrior
