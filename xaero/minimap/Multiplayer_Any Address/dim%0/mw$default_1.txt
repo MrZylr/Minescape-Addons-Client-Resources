@@ -2,6 +2,7 @@ sets:gui.xaero_default:Easy Clues:Underground
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:Quest Start - Clocktower Quest:╒:-1353:68:100:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fishing Spot:▀:991:63:-1601:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Fishing Spot:▀:1044:63:-1562:8:false:0:gui.xaero_default:false:0:0:false
 waypoint:Farming Patch:╚:115:67:72:8:false:0:gui.xaero_default:false:0:0:false
@@ -731,6 +732,7 @@ waypoint:#4 South East Lumbridge Mine:う:623:65:399:8:false:0:Easy Clues:false:
 waypoint:#3 North East of Lumby Castle:ぃ:548:65:84:8:false:0:Easy Clues:false:0:0:false
 waypoint:#2 Varrock Teleport:あ:612:65:-410:8:false:0:Easy Clues:false:0:0:false
 waypoint:#1 South Of GE:Ö:455:63:-541:8:false:0:Easy Clues:false:0:0:false
+waypoint:Exit:⁵:-1345:53:157:8:false:0:Underground:false:0:0:false
 waypoint:Agility Shortcut - Level 71:╨:1293:89:-881:8:false:0:Underground:false:0:0:false
 waypoint:Agility Shortcut - Level 61:╨:1219:77:-806:8:false:0:Underground:false:0:0:false
 waypoint:Mining Site:═:-1560:28:-550:8:false:0:Underground:false:0:0:false
